@@ -1,0 +1,6 @@
+backup-*.html
+index.html.backup-*
+index.html.truncated-*
+scene-final.html
+v2.html
+.DS_Store
